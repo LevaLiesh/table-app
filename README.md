@@ -2,7 +2,7 @@
 
 Showcase of integration TansStack Table and Query API with Next.js app-directory application.
 
-You can find deployed version at: link
+You can find deployed version at: https://table-app-pearl.vercel.app/
 
 And look at the screencast:
 
