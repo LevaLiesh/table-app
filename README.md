@@ -6,7 +6,7 @@ You can find deployed version at: link
 
 And look at the screencast:
 
-link
+https://github.com/LevaLiesh/table-app/assets/157110846/004a2c0a-cbe0-40fe-929b-a16421493488
 
 ## Get Started
 
